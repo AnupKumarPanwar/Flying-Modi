@@ -1,0 +1,71 @@
+{
+  "name": "cordova-plugin-admob",
+  "version": "3.2.4",
+  "description": "The FASTEST and EASIEST TO USE Cordova Admob plugin for Android, iOS and Windows phone. Pure open source without any traffic sharing. Allows preloading and automatic loading of interstitials and banners plus more. Works with Cordova, Phonegap, Intel XDK/Crosswalk, Ionic, Meteor and more.",
+  "cordova": {
+    "id": "cordova-plugin-admob",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatinghotpot/cordova-plugin-admob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-plugin-admob/issues"
+  },
+  "keywords": [
+    "cordova",
+    "admob",
+    "plugin",
+    "phonegap",
+    "intel-xdk",
+    "intel",
+    "xdk",
+    "crosswalk",
+    "ionic",
+    "meteor",
+    "ad",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-amazon-fireos",
+    "google",
+    "ads",
+    "eclipse",
+    "android-studio",
+    "simple",
+    "easy",
+    "android",
+    "ios",
+    "windows",
+    "phonegap",
+    "monetization",
+    "monetisation",
+    "money",
+    "banner",
+    "interstitial",
+    "advertisement",
+    "advertising",
+    "earn",
+    "cordova-admob",
+    "admobpro",
+    "iad",
+    "flurry",
+    "mobfox",
+    "mopub",
+    "inmobi",
+    "chartboost",
+    "domob",
+    "rjfun"
+  ],
+  "author": {
+    "name": "Raymond Xie"
+  },
+  "license": "MIT"
+}

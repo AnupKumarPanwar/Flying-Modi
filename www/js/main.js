@@ -1,4 +1,4 @@
-var game = new Phaser.Game(window.innerWidth, window.innerHeight, Phaser.AUTO, 'gameDiv');
+var game = new Phaser.Game(window.innerWidth, 750, Phaser.AUTO, 'gameDiv');
 var bgtile;
 var isStarted=0;
 

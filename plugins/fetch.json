@@ -49,5 +49,13 @@
         },
         "is_top_level": false,
         "variables": {}
+    },
+    "cordova-plugin-admob": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-admob"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }
