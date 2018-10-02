@@ -7,7 +7,7 @@ This game is similar to Flappy Birds. Tap on the screen to fly Modiji's plane hi
 
 Enjoy and play it.
 
-* Features
+* Features:
 - Infinite levels
 - Great Adventure
 - Flying like the bird
